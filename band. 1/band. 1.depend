@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701346553 source:c:\c++ projektai\band. 1\main.cpp
+	<iostream>
+	<ctime>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701949096 source:c:\c++ projektai\bandymas 9\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699532135 source:c:\c++ projektai\projkektas 0.6\main.cpp
+	<iostream>
+	<fstream>
+	<unordered_map>
+
